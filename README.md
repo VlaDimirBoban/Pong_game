@@ -12,3 +12,5 @@ All assets included.
 Raylib install download:
 
 https://www.raylib.com/
+
+![alt text](https://github.com/VlaDimirBoban/Pong_game/blob/main/Pong.jpg?raw=true)
